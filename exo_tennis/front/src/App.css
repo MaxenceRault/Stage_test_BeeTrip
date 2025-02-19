@@ -1,0 +1,16 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background: #121212;
+  color: white;
+  font-family: Arial, sans-serif;
+}
+
+#root {
+  max-width: 800px;
+  width: 100%;
+  padding: 2rem;
+  text-align: center;
+}

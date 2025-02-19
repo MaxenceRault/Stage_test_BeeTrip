@@ -1,0 +1,44 @@
+.score-container {
+  background: #1e1e1e;
+  padding: 20px;
+  border-radius: 8px;
+  text-align: center;
+  color: white;
+  max-width: 600px;
+  margin: auto;
+}
+
+h3 {
+  color: #00ff00;
+  font-weight: bold;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 10px;
+}
+
+th,
+td {
+  border: 1px solid #ffffff55;
+  padding: 10px;
+  text-align: center;
+}
+
+th {
+  background: #333;
+}
+
+td {
+  background: #222;
+}
+
+td:first-child {
+  font-weight: bold;
+}
+
+td:last-child {
+  font-size: 1.2em;
+  color: #00ff00;
+}

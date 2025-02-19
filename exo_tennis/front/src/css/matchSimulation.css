@@ -1,0 +1,35 @@
+.simulation-container {
+  background: #1e1e1e;
+  padding: 20px;
+  border-radius: 8px;
+  text-align: center;
+  color: white;
+  max-width: 600px;
+  margin: auto;
+}
+
+button {
+  background: #00ff00;
+  color: black;
+  padding: 10px 15px;
+  border: none;
+  font-size: 16px;
+  cursor: pointer;
+  margin-bottom: 10px;
+}
+
+button:hover {
+  background: #00cc00;
+}
+
+ul {
+  list-style: none;
+  max-height: 200px;
+  overflow-y: auto;
+  padding: 0;
+}
+
+li {
+  padding: 5px;
+  border-bottom: 1px solid #ffffff55;
+}
